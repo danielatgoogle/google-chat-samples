@@ -19,7 +19,7 @@
  * Project environment settings.
  */
 const env = {
-  project: 'developer-productivity-402319', //'YOUR_PROJECT_ID',
+  project: 'project-id', //'YOUR_PROJECT_ID',
   location: 'us-central1', // replace with your GCP project location
 };
 
